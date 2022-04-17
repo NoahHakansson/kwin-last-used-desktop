@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=My Script
+Comment=Description of script.
+Icon=preferences-system-windows
+
+X-KDE-PluginInfo-Author=Name LastName
+X-KDE-PluginInfo-Email=username@gmail.com
+X-KDE-PluginInfo-Name=myscript
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
