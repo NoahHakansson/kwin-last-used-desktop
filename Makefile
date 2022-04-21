@@ -9,3 +9,6 @@ uninstall:
 
 upgrade:
 	kpackagetool5 --type=KWin/Script -u .
+
+package:
+	zip -r last-used-desktop.kwinscript contents LICENSE metadata.desktop README.md
