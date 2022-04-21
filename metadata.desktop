@@ -7,7 +7,7 @@ X-KDE-PluginInfo-Author=Noah H
 X-KDE-PluginInfo-Email=null@null.null
 X-KDE-PluginInfo-Name=last-Used-Desktop
 X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-License=MIT
 
 Type=Service
 X-KDE-ServiceTypes=KWin/Script
