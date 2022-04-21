@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=My Script
-Comment=Description of script.
+Name=Last used desktop
+Comment= KWin script to switch to the last used desktop.
 Icon=preferences-system-windows
 
-X-KDE-PluginInfo-Author=Name LastName
-X-KDE-PluginInfo-Email=username@gmail.com
-X-KDE-PluginInfo-Name=myscript
+X-KDE-PluginInfo-Author=Noah H
+X-KDE-PluginInfo-Email=null@null.null
+X-KDE-PluginInfo-Name=last-Used-Desktop
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-License=GPL
 
