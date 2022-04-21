@@ -6,7 +6,7 @@ KWin script to switch to the last used desktop
 
 Using the included Makefile
 
-`make install` or `make uninstall`
+`make install`, `make uninstall` or `make upgrade` to reinstall/upgrade
 
 Or
 
