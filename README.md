@@ -2,14 +2,22 @@
 
 KWin script to switch to the last used desktop
 
-## Install
+## Installation
+
+Using the included Makefile
+
+`make install` or `make uninstall`
+
+Or
+
+### Install
 
 ```
 git clone https://github.com/NoahHakansson/kwin-last-used-desktop
 kpackagetool5 --type=KWin/Script -i kwin-last-used-desktop
 ```
 
-## Uninstall
+### Uninstall
 
 ```
 git clone https://github.com/NoahHakansson/kwin-last-used-desktop
