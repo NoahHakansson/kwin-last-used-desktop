@@ -6,3 +6,6 @@ install:
 
 uninstall:
 	kpackagetool5 --type=KWin/Script -r .
+
+upgrade:
+	kpackagetool5 --type=KWin/Script -u .
