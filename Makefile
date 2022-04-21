@@ -12,3 +12,6 @@ upgrade:
 
 package:
 	zip -r last-used-desktop.kwinscript contents LICENSE metadata.desktop README.md
+
+clean:
+	rm last-used-desktop.kwinscript
