@@ -17,7 +17,8 @@ kpackagetool5 --type=KWin/Script -i kwin-last-used-desktop
 ```
 
 ## Keybindings
-```
-No deafult shortcut is set, but I recommend <kbd>Meta</kbd>+<kbd>Tab</kbd>.
+
+No default shortcut is set, but I recommend <kbd>Meta</kbd>+<kbd>Tab</kbd>.
+
 The keybinding can be found and changed in `System Settings` -> `Shortcuts` if you search for "Switch to last used desktop".
-```
+
